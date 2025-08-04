@@ -1,0 +1,274 @@
+{"level":"info","message":"Creating new record in user_account table","timestamp":"7/30/2025, 4:32:44 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"7/30/2025, 4:41:20 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"7/30/2025, 4:45:43 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"7/30/2025, 5:11:52 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"7/30/2025, 5:16:56 PM"}
+{"level":"info","message":"Record created with id 5","timestamp":"7/30/2025, 5:16:56 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"7/30/2025, 5:35:19 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"7/30/2025, 5:36:10 PM"}
+{"level":"info","message":"Record created with id 6","timestamp":"7/30/2025, 5:36:10 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"7/30/2025, 5:36:58 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 5:53:15 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 5:53:16 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 5:54:23 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 5:54:23 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:08:12 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:08:13 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:12:27 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:12:27 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:12:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:12:29 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:19:16 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:19:16 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:19:17 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:19:17 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:22:27 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:22:28 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:24:49 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:24:49 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:24:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:24:51 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:29:38 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:29:39 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:29:40 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:29:40 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:31:30 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:31:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:31:32 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:31:32 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:33:52 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:33:52 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:33:55 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:33:55 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:39:58 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:39:58 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:40:00 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:40:00 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:42:13 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:42:14 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:42:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:42:15 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:46:14 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:46:14 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:46:17 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:46:17 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:50:34 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:50:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:50:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:50:36 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"7/30/2025, 6:52:34 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:52:56 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:52:56 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:53:05 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:53:05 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:57:21 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:57:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:57:23 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:57:23 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"7/30/2025, 6:59:15 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"7/30/2025, 6:59:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:59:17 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 6:59:17 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"7/30/2025, 6:59:57 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 7:00:11 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"7/30/2025, 7:00:11 PM"}
+{"level":"error","message":"Assets already has an account","timestamp":"7/30/2025, 7:00:27 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:27:00 AM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 11:27:01 AM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 11:27:18 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:27:44 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:27:44 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:27:51 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:27:51 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:30:30 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:30:31 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:30:39 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:30:39 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:32:51 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:32:51 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:32:56 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:32:56 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:36:14 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:36:15 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:37:24 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:37:25 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:38:51 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:38:51 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:40:59 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:40:59 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:41:15 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:41:15 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:56:12 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:56:13 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:58:01 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:58:01 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 11:58:51 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 11:58:51 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:58:54 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 11:58:54 AM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:01:18 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:01:18 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:01:31 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:01:31 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 12:01:39 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 12:01:39 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:35:03 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:35:04 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 12:35:21 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:36:59 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:36:59 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 12:46:26 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 12:47:43 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:49:49 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:49:50 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:53:36 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:53:36 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 12:55:40 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 12:55:41 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 1:02:19 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 1:02:20 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 1:07:59 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 1:08:00 PM"}
+{"level":"error","message":"Error in createAccountDetails: null value in column \"user_id\" violates not-null constraint","timestamp":"8/4/2025, 1:08:16 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 1:24:35 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 1:34:50 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"8/4/2025, 1:35:50 PM"}
+{"level":"info","message":"Record created with id 7","timestamp":"8/4/2025, 1:35:51 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 1:40:23 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"8/4/2025, 1:43:29 PM"}
+{"level":"info","message":"Record created with id 8","timestamp":"8/4/2025, 1:43:29 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 1:44:07 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 1:44:07 PM"}
+{"level":"error","message":"Error in createAccountDetails: null value in column \"user_id\" violates not-null constraint","timestamp":"8/4/2025, 1:44:25 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 1:46:41 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 1:46:41 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 1:46:43 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 1:46:43 PM"}
+{"level":"error","message":"Error in createAccountDetails: null value in column \"user_id\" violates not-null constraint","timestamp":"8/4/2025, 1:46:50 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 1:49:51 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 1:49:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 1:49:53 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 1:49:53 PM"}
+{"code":"23502","column":"user_id","detail":"Failing row contains (24, null, Jeffery, Money, , , , AK, , , ).","file":"execMain.c","length":227,"level":"error","line":"2008","message":"Error in createAccountDetails: null value in column \"user_id\" violates not-null constraint","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","stack":"error: null value in column \"user_id\" violates not-null constraint\n    at D:\\CMP SCI 3010\\Project4\\Express\\node_modules\\pg\\lib\\client.js:545:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async UserAccountDetailsRepository.insert (D:\\CMP SCI 3010\\Project4\\Express\\repositories\\userAccountDetailsRepository.js:16:25)\n    at async createAccountDetails (D:\\CMP SCI 3010\\Project4\\Express\\services\\accountService.js:61:22)","table":"user_account_details","timestamp":"8/4/2025, 1:50:01 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 2:23:32 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 2:30:07 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 2:30:08 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 2:38:33 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 2:38:34 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:38:50 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:38:50 PM"}
+{"code":"23502","column":"user_id","detail":"Failing row contains (25, null, Jeffery, Money, , , , AK, , , ).","file":"execMain.c","length":227,"level":"error","line":"2008","message":"Error in createAccountDetails: null value in column \"user_id\" violates not-null constraint","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","stack":"error: null value in column \"user_id\" violates not-null constraint\n    at D:\\CMP SCI 3010\\Project4\\Express\\node_modules\\pg\\lib\\client.js:545:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async UserAccountDetailsRepository.insert (D:\\CMP SCI 3010\\Project4\\Express\\repositories\\userAccountDetailsRepository.js:16:25)\n    at async createAccountDetails (D:\\CMP SCI 3010\\Project4\\Express\\services\\accountService.js:60:22)","table":"user_account_details","timestamp":"8/4/2025, 2:38:58 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:40:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:40:35 PM"}
+{"code":"23502","column":"user_id","detail":"Failing row contains (26, null, Jeffery, Money, , , , AK, , , ).","file":"execMain.c","length":227,"level":"error","line":"2008","message":"Error in createAccountDetails: null value in column \"user_id\" violates not-null constraint","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","stack":"error: null value in column \"user_id\" violates not-null constraint\n    at D:\\CMP SCI 3010\\Project4\\Express\\node_modules\\pg\\lib\\client.js:545:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async UserAccountDetailsRepository.insert (D:\\CMP SCI 3010\\Project4\\Express\\repositories\\userAccountDetailsRepository.js:16:25)\n    at async createAccountDetails (D:\\CMP SCI 3010\\Project4\\Express\\services\\accountService.js:60:22)","table":"user_account_details","timestamp":"8/4/2025, 2:40:42 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 2:43:30 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 2:43:30 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:43:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:43:36 PM"}
+{"level":"info","message":"Created new account details for userId: 5","timestamp":"8/4/2025, 2:43:42 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:44:19 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:44:19 PM"}
+{"level":"info","message":"Updated account details for userId: 5","timestamp":"8/4/2025, 2:45:00 PM"}
+{"level":"info","message":"existingUserAccount Jack","timestamp":"8/4/2025, 2:45:58 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 2:45:58 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:46:10 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:46:10 PM"}
+{"level":"info","message":"Created new account details for userId: 8","timestamp":"8/4/2025, 2:47:16 PM"}
+{"level":"info","message":"existingUserAccount Assets","timestamp":"8/4/2025, 2:52:20 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 2:52:21 PM"}
+{"level":"info","message":"existingUserAccount Assets","timestamp":"8/4/2025, 2:52:59 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 2:52:59 PM"}
+{"level":"info","message":"existingUserAccount Assets","timestamp":"8/4/2025, 2:53:16 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 2:53:16 PM"}
+{"level":"info","message":"existingUserAccount Assets","timestamp":"8/4/2025, 2:53:35 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 2:53:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:53:54 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:53:54 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 2:54:39 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 2:54:40 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 2:55:15 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 2:55:15 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:55:23 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:55:23 PM"}
+{"level":"info","message":"Created new account details for userId: 7","timestamp":"8/4/2025, 2:56:50 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:58:16 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 2:58:16 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 2:59:00 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:22:52 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:23:02 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:23:54 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:23:54 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:24:05 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:24:05 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:24:08 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:24:08 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 4:24:17 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 4:26:02 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 4:26:02 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:26:05 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:26:05 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 4:26:24 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 4:27:30 PM"}
+{"level":"error","message":"Jeffery already has an account","timestamp":"8/4/2025, 4:34:49 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 4:35:23 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 4:35:24 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:35:42 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:35:42 PM"}
+{"level":"info","message":"Updated account details for userId: 5","timestamp":"8/4/2025, 4:36:25 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:41:56 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 4:41:57 PM"}
+{"level":"info","message":"Updated account details for userId: 5","timestamp":"8/4/2025, 4:42:23 PM"}
+{"level":"info","message":"existingUserAccountDetails Jeffery","timestamp":"8/4/2025, 4:44:52 PM"}
+{"level":"info","message":"existingUserAccountDetails Jeffery","timestamp":"8/4/2025, 4:44:52 PM"}
+{"level":"info","message":"Updated account details for userId: 5","timestamp":"8/4/2025, 4:45:10 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 4:45:37 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 4:45:38 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 4:45:40 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 4:45:40 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 4:46:32 PM"}
+{"level":"info","message":"existingUserAccount Jeffery","timestamp":"8/4/2025, 4:48:27 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 4:48:27 PM"}
+{"level":"info","message":"existingUserAccount Assets","timestamp":"8/4/2025, 4:48:54 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 4:48:54 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:36:17 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 5:37:19 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 5:37:20 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 5:37:33 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 5:37:33 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:37:55 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:38:27 PM"}
+{"level":"info","message":"existingUserAccountDetails Jeffery","timestamp":"8/4/2025, 5:38:58 PM"}
+{"level":"info","message":"existingUserAccountDetails Jeffery","timestamp":"8/4/2025, 5:38:59 PM"}
+{"level":"info","message":"existingUserAccountDetails Jeffery","timestamp":"8/4/2025, 5:48:54 PM"}
+{"level":"info","message":"existingUserAccountDetails Jeffery","timestamp":"8/4/2025, 5:49:58 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:50:02 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 5:50:41 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:50:52 PM"}
+{"level":"info","message":"existingUserAccountDetails Jack","timestamp":"8/4/2025, 5:50:59 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"8/4/2025, 5:53:36 PM"}
+{"level":"info","message":"Record created with id 9","timestamp":"8/4/2025, 5:53:36 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:54:03 PM"}
+{"level":"info","message":"existingUserAccountDetails Johnny","timestamp":"8/4/2025, 5:54:03 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 5:55:18 PM"}
+{"level":"info","message":"existingUserAccount Patrick","timestamp":"8/4/2025, 5:56:21 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 5:56:21 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 5:56:41 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"8/4/2025, 5:56:41 PM"}
+{"level":"info","message":"Created new account details for userId: 9","timestamp":"8/4/2025, 5:57:11 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 5:58:14 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 5:58:14 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 5:58:16 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 5:58:16 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 5:58:25 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 5:58:25 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 5:58:39 PM"}
+{"level":"error","message":"Password is incorrect.","timestamp":"8/4/2025, 5:58:39 PM"}
+{"level":"info","message":"existingUserAccount Johnny","timestamp":"8/4/2025, 5:59:07 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 5:59:07 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 5:59:12 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 5:59:12 PM"}
+{"level":"info","message":"Updated account details for userId: 7","timestamp":"8/4/2025, 6:00:00 PM"}
+{"level":"info","message":"existingUserAccount Patrick","timestamp":"8/4/2025, 6:01:27 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"8/4/2025, 6:01:27 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 6:01:36 PM"}
+{"level":"info","message":"existingUserAccountDetails Patrick","timestamp":"8/4/2025, 6:01:36 PM"}

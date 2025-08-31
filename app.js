@@ -28,22 +28,22 @@ app.get('/', (req, res) => {
 });
 
 
-app.post('https://express-m472.onrender.com/login', (req, res)=>{  //before deployment '/login'
+app.post('/login', (req, res)=>{
     console.log(req.body);
     validateLoginCredentials(req, res);
 });
 
-app.post('https://express-m472.onrender.com/registration', (req, res)=>{   //before deployment '/registration'
+app.post('/registration', (req, res)=>{   
     console.log(req.body);
     registerLoginCredentials(req, res);
 });
 
-app.get('https://express-m472.onrender.com/account', (req, res) => {      //before deployment '/account'
+app.get('/account', (req, res) => {     
     console.log("url:", req.url);
     getAccountDetails(req, res);
 });
 
-app.post('https://express-m472.onrender.com/account', (req, res)=>{         //before deployment '/account'
+app.post('/account', (req, res)=>{
     console.log(req.body);
     createAccountDetails(req, res);
 })

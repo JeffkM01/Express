@@ -7,16 +7,6 @@ const validateLoginCredentials = require('./services/loginService');
 const { getAccountDetails, createAccountDetails } = require('./services/accountService');
 
 
-
-
-// Start of deployment
-
-// End of deployment
-
-
-
-
-
 app.use(
     (request, response, next) => {
         console.log("A new request received at " + new Date(Date.now()));
@@ -32,22 +22,22 @@ app.get('/', (req, res) => {
 });
 
 
-app.post('/login', (req, res)=>{
+app.post('https://express-m472.onrender.com/login', (req, res)=>{  //before deployment '/login'
     console.log(req.body);
     validateLoginCredentials(req, res);
 });
 
-app.post('/registration', (req, res)=>{
+app.post('https://express-m472.onrender.com/registration', (req, res)=>{   //before deployment '/registration'
     console.log(req.body);
     registerLoginCredentials(req, res);
 });
 
-app.get('/account', (req, res) => {
+app.get('https://express-m472.onrender.com/account', (req, res) => {      //before deployment '/account'
     console.log("url:", req.url);
     getAccountDetails(req, res);
 });
 
-app.post('/account', (req, res)=>{
+app.post('https://express-m472.onrender.com/account', (req, res)=>{         //before deployment '/account'
     console.log(req.body);
     createAccountDetails(req, res);
 })

@@ -14,7 +14,7 @@ const connectionOptions = {
 // End of deployment
 
 
-/* previous code
+/* Before deployment
 const connectionOptions = {
     host: 'localhost',
     port: 5432,

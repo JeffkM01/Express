@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const cors = require('cors');
-const port = 8080;
+const port = process.env.PORT || 8080;
 const registerLoginCredentials = require('./services/registerService');
 const validateLoginCredentials = require('./services/loginService');
 const { getAccountDetails, createAccountDetails } = require('./services/accountService');

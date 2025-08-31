@@ -15,7 +15,13 @@ app.use(
 );
 
 app.use(express.json());
-app.use(cors());
+//app.use(cors());
+app.use(cors({
+  origin: "https://<your-netlify-site>.netlify.app", // allow your frontend
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  credentials: true
+}));
+
 
 app.get('/', (req, res) => {
     res.send({url: req.url, method: req.method})
